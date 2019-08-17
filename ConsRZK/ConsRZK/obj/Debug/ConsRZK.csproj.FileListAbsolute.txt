@@ -1,0 +1,10 @@
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\bin\Debug\ConsRZK.exe.config
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\bin\Debug\ConsRZK.exe
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\bin\Debug\ConsRZK.pdb
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\obj\Debug\ConsRZK.COLOR.resources
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\obj\Debug\ConsRZK.Properties.Resources.resources
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\obj\Debug\ConsRZK.csproj.GenerateResource.cache
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\obj\Debug\ConsRZK.csproj.CoreCompileInputs.cache
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\obj\Debug\ConsRZK.exe
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\obj\Debug\ConsRZK.pdb
+C:\Users\CarlosGomez\source\repos\ConsRZK\ConsRZK\obj\Debug\ConsRZK.csprojAssemblyReference.cache
